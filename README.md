@@ -22,4 +22,4 @@ Build an AI-based recommendation system in Java that suggests products or conten
 
 
 ##Output
-
+<img width="607" height="45" alt="Image" src="https://github.com/user-attachments/assets/801756e7-4267-45d3-a035-ee2d6a20ef6e" />
